@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 OVO JE MENJANO NA GITU
 
 ponovo dodaj
+
+jos jedna izmena
